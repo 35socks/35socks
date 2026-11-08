@@ -1,4 +1,4 @@
-# hey, i'm kiki!
+# hey, i'm cam/kiki!
 
 **music student · developer · creative technologist**
 
