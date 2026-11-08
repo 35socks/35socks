@@ -27,4 +27,6 @@ currently interested in building software for musicians, live performance, audio
 
 ---
 
+yes i do use ai to assist in coding sometimes - however i use my own models locally
+
 <sub>surviving i think?</sub>
